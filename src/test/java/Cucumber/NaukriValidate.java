@@ -16,6 +16,9 @@ public class NaukriValidate {
 		driver.get(Constant.BASE_URL_Naukri);
 		driver.manage().window().maximize();
 		System.out.println("Url is opening");
+		System.out.println("New Code IS Added");
+		System.out.println("New Code IS Added");
+		System.out.println("New Code IS Added");
 		Thread.sleep(5000);
 	}
 
